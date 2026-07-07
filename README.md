@@ -96,11 +96,3 @@ REST API 서버 방식이 아니라 PHP 페이지와 Form 요청을 중심으로
 
 작은 기능이라도 직접 설계하고 구현하면서  
 백엔드 개발에 필요한 API, DB, 인증, 서비스 흐름을 차근차근 익히고 있습니다.
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=breadcream177&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breadcream177&layout=compact)
